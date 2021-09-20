@@ -23,7 +23,7 @@ menjalankan file
     3. webcam sedang digunakan app lain
     4. bermasalah dengan menginstall package dlib/ lupa install
 
-Note : untuk datasets kami menggunakan datasets dari Prajna 
+Note : untuk datasets kami menggunakan datasets dari [Prajna Bhandary](https://github.com/prajnasb/observations/tree/master/experiements/data) 
 dan menambah beberapa lagi, untuk lebih lengkap dataset serta file
 model masker ada di github.
 
