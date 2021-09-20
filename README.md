@@ -18,7 +18,7 @@ menjalankan file
 5. jika model masker salah prediksi, maka itu diantara 1 cahaya yang menyorot ke wajah terlalu terang, atau cahaya terlalu gelap
 6. file yang dijalankan merupakan file bernama door-lock-system dengan ekstensi .ipynb atau .py
 7. beberapa error yang sering terjadi karena lalai, saat saya test terjadi karena\
-    1. file video corrupt\
-    2. file path yang salah\
-    3. webcam sedang digunakan app lain\
+    1. file video corrupt
+    2. file path yang salah
+    3. webcam sedang digunakan app lain
     4. bermasalah dengan menginstall package dlib/ lupa install
