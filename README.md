@@ -11,7 +11,7 @@ menjalankan file
     ^keras
 2. cek keberadaan files & mengatur path\
     ^model masker (model8.h5) beserta file haarcascade\
-    ^centroidtracker.py dan trackable object.py
+    ^centroidtracker.py dan trackable object.py\
     ^video yang digunakan untuk people counter
 3. set limit, dengan mengganti nilai variabel limit, default yang digunakan 10
 4. pastikan cahaya ruangan mencukupi, untuk memudahkan mendeteksi wajah
