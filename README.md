@@ -27,4 +27,4 @@ Note : untuk datasets kami menggunakan datasets dari Prajna
 dan menambah beberapa lagi, untuk lebih lengkap dataset serta file
 model masker ada di github.
 
-Github : model mask[https://github.com/UnoArroefy/Face-mask-detection]
+Github : [model masker](https://github.com/UnoArroefy/Face-mask-detection)
